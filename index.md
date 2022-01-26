@@ -1,10 +1,20 @@
-## Welcome to GitHub Pages
+## 一些文本向量化的算法总结和python实现
 
-You can use the [editor on GitHub](https://github.com/whzyf951620/Word2Vec/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+    <script type="text/javascript" async
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+            }
+        });
+    </script>
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### 朴素贝叶斯
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
